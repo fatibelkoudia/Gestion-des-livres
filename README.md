@@ -26,3 +26,26 @@ L’accès à certaines ressources de l’applicationest géré par des rôles. 
 
 Cette application a été créée par Fatima-ezzahra Belkoudia en tant que TP pour MST Informatique Décisionnelle.
 Université Sultan Moulay Slimane Faculté Des Sciences Et Techniques Béni Mellal
+
+## Captures d'écran
+
+### Login: 
+
+![image](https://user-images.githubusercontent.com/103652967/230915290-835f5bbb-3538-47e3-bb55-78810e66d3e9.png)
+
+### Liste des livres: 
+
+![image](https://user-images.githubusercontent.com/103652967/230915851-e1bc9f72-6a70-4f2f-86e6-3e62aca67df5.png)
+
+### Liste des auteurs: 
+
+![image](https://user-images.githubusercontent.com/103652967/230915984-9820b03b-f56e-41d0-9850-7deded003adc.png)
+
+### Ajout form: 
+
+![image](https://user-images.githubusercontent.com/103652967/230916072-d4591088-d8b4-4cec-9619-1dfbb265b527.png)
+
+### Modification form:
+
+![image](https://user-images.githubusercontent.com/103652967/230916280-cb990bff-29cc-4561-ad3e-27e6d077e912.png)
+
